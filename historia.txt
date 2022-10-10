@@ -5,5 +5,6 @@ Entonces este es el development
 probando el soft...
 cómo
 
-
-R
+Version 6 para la que haré tal
+implementación y probar
+el comando rm en git
