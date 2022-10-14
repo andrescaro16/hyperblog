@@ -5,6 +5,5 @@ Entonces este es el development
 probando el soft...
 cómo
 
-Version 6 para la que haré tal
-implementación y probar
-el comando rm en git
+Version lista para iniciar clase de GitHub
+e iniciar a conocer los nuevos comando para repositorios remotos
