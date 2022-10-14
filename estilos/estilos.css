@@ -37,10 +37,3 @@ body{
 #post{
     padding: 1em;
 }
-
-#prueba{
-    text-align: center;
-    background-color: rgba(38, 38, 123, 0.984);
-    color: white;
-    border-radius: 10%;
-}
