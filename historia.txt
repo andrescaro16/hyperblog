@@ -7,3 +7,5 @@ cómo
 
 Version lista para iniciar clase de GitHub
 e iniciar a conocer los nuevos comando para repositorios remotos
+
+Commit para diferenciar nombre de usuario en Local y en GitHub
