@@ -1,11 +1,11 @@
 Probando para ver cómo
 será la historia de Andrés.
 
-Entonces este es el development
-probando el soft...
-cómo
+Entonces este es el development.
 
 Version lista para iniciar clase de GitHub
 e iniciar a conocer los nuevos comando para repositorios remotos
 
 Commit para diferenciar nombre de usuario en Local y en GitHub
+Ahora mismo acabo de terminar la clase de SSH
+para conectar Git y GitHub de manera segura
