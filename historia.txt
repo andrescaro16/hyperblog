@@ -4,3 +4,5 @@ esto con el --amend
 Además, aprendo el flujo de trabajo con multiples colaboradores
 
 Master 1
+
+Master 2
