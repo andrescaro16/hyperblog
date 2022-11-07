@@ -2,3 +2,5 @@ Ahora mismo, me encuentro probando cambiar el nombre de un Commit,
 esto con el --amend
 
 Además, aprendo el flujo de trabajo con multiples colaboradores
+
+Master 1
