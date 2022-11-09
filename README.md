@@ -1,7 +1,7 @@
 # hyperblog
 A blog for Platzi Git and GitHub course
 
-### Contenido
+### Content
 - Commits
 - reset vs rm
 - Staging
